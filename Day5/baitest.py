@@ -120,3 +120,5 @@
 #         print("1 for True, 0 for False: 0")
 #         print("Incorrect")
 # print(f"Game over! Your score is {score}")
+a = "MindX"
+print(str(a))
